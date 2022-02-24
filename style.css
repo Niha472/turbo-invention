@@ -1,0 +1,45 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ body{
+   background-image:url('a.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ .hi{
+   background-color: #33302C;
+   color:#D49085;
+   width: 75%;
+   border-radius: 50px;
+   box-shadow:  5px 5px 5px #B4436C;
+ }
+ .it{
+   font-size: 20px;
+   font-family: cursive;
+   background-color: #d485c9;
+   width: 20%;
+   border-radius: 50px;
+   
+ }
+ canvas{
+   margin-top: 500px;
+ }
